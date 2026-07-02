@@ -36,6 +36,6 @@ The goal of this project was to practice building a professional-looking educati
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- Bootstrap (if used)
+- TailwindCSS
 - Font Awesome
 - Google Fonts
